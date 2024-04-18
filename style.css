@@ -25,6 +25,7 @@ body {
   margin: 10px;
   border-radius: 20px;
   cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .red {
