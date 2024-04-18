@@ -16,7 +16,7 @@ Welcome to the **Simon Says game**! This project is a simple implementation of t
 
 To run the game locally, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/simon-says.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/HarryOhm33/Simon-Says.git`.
 2. Navigate to the project directory.
 3. Open the `index.html` file in your web browser.
 
