@@ -114,6 +114,7 @@ function bodyFlash() {
 }
 
 endBtn.addEventListener("click", () => {
+  reset();
   h3.innerHTML = `Press The Button To Start Again`;
 
   startBtn.classList.remove("d-none");
@@ -122,6 +123,4 @@ endBtn.addEventListener("click", () => {
     highScore = level - 1;
     h4.innerText = `HighScore = ${highScore}`;
   }
-
-  reset();
 });
