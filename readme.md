@@ -20,7 +20,7 @@ To run the game locally, follow these steps:
 2. Navigate to the project directory.
 3. Open the `index.html` file in your web browser.
 
-Alternatively, you can play the game online by visiting [Link](https://simonsaysh.netlify.app/).
+Alternatively, you can play the game online by visiting [Simon Says](https://simonsaysh.netlify.app/).
 
 ## Usage
 
