@@ -20,7 +20,7 @@ To run the game locally, follow these steps:
 2. Navigate to the project directory.
 3. Open the `index.html` file in your web browser.
 
-Alternatively, you can play the game online by visiting [Demo Link](#).
+Alternatively, you can play the game online by visiting [Link](https://simonsaysh.netlify.app/).
 
 ## Usage
 
@@ -30,5 +30,3 @@ Alternatively, you can play the game online by visiting [Demo Link](#).
 - Repeat the sequence by clicking on the colors in the same order.
 - If you make a mistake, the game will end, and you'll have the option to start over.
 - Try to reach the highest level possible by remembering longer sequences!
-
-Link :- https://simonsaysh.netlify.app/
