@@ -106,3 +106,12 @@ body {
 .end-btn:active {
   opacity: 50%;
 }
+
+.tutorial {
+  position: fixed;
+  bottom: 3rem;
+  left: 1.5rem;
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: springgreen;
+}
